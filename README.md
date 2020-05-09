@@ -5,7 +5,7 @@ I am a student at the University of Missouri, and this is my first coding class.
 
 Navigate my website using these links
 
-*[skills](./skills.md)
+*[skills](.-skills.md)
 
 *[Code Sample](./code_sample.md)
 
