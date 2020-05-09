@@ -9,7 +9,7 @@ Navigate my website using these links
 
 *[Code Sample](https://github.com/kalley810/code_sample.md)
 
-*[Hobbies](./hobby.md)
+*[Hobbies](https://github.com/kalley810/Hobby.md)
 
 *[Academy Performance](./marks.md)
 
