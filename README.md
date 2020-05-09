@@ -7,7 +7,7 @@ Navigate my website using these links
 
 *[skills](https://github.com/kalley810/.-skills.md)
 
-*[Code Sample](./code_sample.md)
+*[Code Sample](https://github.com/kalley810/code_sample.md)
 
 *[Hobbies](./hobby.md)
 
