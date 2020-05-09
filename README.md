@@ -5,7 +5,7 @@ I am a student at the University of Missouri, and this is my first coding class.
 
 Navigate my website using these links
 
-*[skills](https://github.com/kalley810/.-skills.md)
+*[sports](https://github.com/kalley810/.-sports.md)
 
 *[Code Sample](https://github.com/kalley810/code_sample.md)
 
